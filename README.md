@@ -3,5 +3,5 @@
 
 
 
-![wireframe](C:\Users\owner\Desktop\Capture resss.PNG)
+![wireframe](Capture%20resss.PNG)
 
